@@ -3,9 +3,9 @@ import shutil
 import tkinter as tk
 from tkinter import filedialog, messagebox
 
-FOLDER_1 = "/Users/advieek/Desktop/Test 1"
-FOLDER_2 = "/Users/advieek/Desktop/Test 2"
-FOLDER_3 = "/Users/advieek/Desktop/Test 3"
+FOLDER_1 = "/Users/your-name/Desktop/Test 1"
+FOLDER_2 = "/Users/your-name/Desktop/Test 2"
+FOLDER_3 = "/Users/your-name/Desktop/Test 3"
 
 FOLDER_OPTIONS = {
     "1": FOLDER_1,
